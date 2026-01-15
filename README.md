@@ -1,24 +1,10 @@
-# Hi there 👋
-
-### 🚀 I'm currently working on
-
-- 🛠 Building with **Next.js**, **TypeScript**, and **Tailwind**.
-- 🧠 Sharpening problem-solving skills.
-- 📚 Deepening my JavaScript understanding.
-- 💬 Writing and sharing thoughts at [loorbach.dev](https://loorbach.dev).
-
-### 🧰 Tech Stack
+Building with Next.js, TypeScript, and Tailwind. Learning as much as I can!
 
 **Languages**  
-JavaScript (ES6+), TypeScript, HTML5, CSS3
+JavaScript, TypeScript, HTML5, CSS3
 
 **Libraries / Frameworks**  
-React, Next.js, Tailwind CSS, Angular
-
-### 📫 How to reach me
-
-[email](mailto:contact@loorbach.dev)
-
+React, Next.js, Tailwind CSS, Angular, Django
 
 <!--
 **heyptrck/heyptrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
